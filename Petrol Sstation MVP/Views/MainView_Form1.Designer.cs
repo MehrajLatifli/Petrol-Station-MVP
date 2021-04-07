@@ -196,6 +196,7 @@ namespace Petrol_Station_MVP
             this.ByCashguna2TextBox2.IconRight = ((System.Drawing.Image)(resources.GetObject("ByCashguna2TextBox2.IconRight")));
             this.ByCashguna2TextBox2.Location = new System.Drawing.Point(204, 118);
             this.ByCashguna2TextBox2.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.ByCashguna2TextBox2.MaxLength = 2;
             this.ByCashguna2TextBox2.Name = "ByCashguna2TextBox2";
             this.ByCashguna2TextBox2.PasswordChar = '\0';
             this.ByCashguna2TextBox2.PlaceholderText = "";
@@ -224,6 +225,7 @@ namespace Petrol_Station_MVP
             this.ByGallonguna2TextBox1.IconRight = ((System.Drawing.Image)(resources.GetObject("ByGallonguna2TextBox1.IconRight")));
             this.ByGallonguna2TextBox1.Location = new System.Drawing.Point(204, 63);
             this.ByGallonguna2TextBox1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.ByGallonguna2TextBox1.MaxLength = 2;
             this.ByGallonguna2TextBox1.Name = "ByGallonguna2TextBox1";
             this.ByGallonguna2TextBox1.PasswordChar = '\0';
             this.ByGallonguna2TextBox1.PlaceholderText = "";
